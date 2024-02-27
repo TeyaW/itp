@@ -1,0 +1,1 @@
+print('3\n\tBlind\n\t\tMice')
