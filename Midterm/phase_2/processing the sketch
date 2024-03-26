@@ -1,0 +1,8 @@
+## the process of translating my sketch to processing.py went fairly smoothly!
+## I had some initial trouble with the orientation of the triangle, because i
+## tried to rotate the form of the triangle rather than just specifying the
+## three points as they would be with the triangle's sideways orientation.
+## To change the fill color of the eyes to white, i wrote fill(225) before the
+## command to draw the circle. I was able to find the value to type for white
+## by using the processing.org reference page, where it specifies that the
+## default color mode for processing is RGB, as opposed to HSB. 

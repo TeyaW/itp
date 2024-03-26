@@ -1,0 +1,4 @@
+## for the third phase of this project I copied the code from phase two into a
+## new file, and added around it. The push and pop functions placed before and
+## after the draw object function makes it such that this function wont be
+## effected by the first function call. 

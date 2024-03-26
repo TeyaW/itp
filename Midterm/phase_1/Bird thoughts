@@ -1,0 +1,6 @@
+## so! I thought it would be cute to code a little bird into existence.
+## I imagined that it would be easy to draw using two ellipses, one large for
+## the body and one small for the eye (the bird is looking to the side). Then,
+## a thin triangle on its side to make the bird's beak! After drawing my bird
+## I assigned x and y values to the grid so I could map the location and size
+## of all my shapes moving into phase two. (this was after I took the pic)

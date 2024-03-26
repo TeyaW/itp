@@ -1,0 +1,6 @@
+## the first issue i faced in the tiling section of this project was the scale.
+## I wanted a 20 x 20 grid on a canvas of 400x400. By writing the scale
+## perimeter as .1, i was able to shrink my drawing down to one tenth of its
+## size. then, i used two nested for-loops to draw my bird repeatedly down the
+## x and y axis. Using the in range function allowed me to put a limit on the
+## drawings such that it wouldn't be drawn outside of the canvas. 
