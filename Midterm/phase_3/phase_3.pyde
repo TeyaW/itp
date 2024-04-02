@@ -14,5 +14,5 @@ def drawObject(x,y,s):
     pop()
 
 def draw():
-    drawObject(0,0,1)
+    drawObject(0,0,5)
     drawObject(0,200,1)
