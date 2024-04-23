@@ -1,0 +1,18 @@
+function printChessboard(size) {
+    let board = "";
+    for (let i = 0; i < size; i++) {
+        for (let j = 0; j < size; j++) {
+            if ((i + j) % 2 === 0) {
+                board += "#"; // #
+            } else {
+                board += " "; // space
+            }
+        }
+        board += "\n";
+    }
+    console.log(board);
+}
+
+// Change the value of 'size' to adjust the width and height of the grid
+const size = 8; // You can change this value
+printChessboard(size);
